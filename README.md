@@ -11,4 +11,8 @@ Get the game here!: https://mega.nz/file/AxxAna4L#IMICPdJnyzx_1F-pHzN6H5v2JTan_o
 
 2. Launch UT2004.reg and accept. This will install a key for the game, useful for new installs and systems.
 
-I will provede mods and maps as well if requested. Happy gaming!
+3. Once the game is launched and at the main menu, press ` on your keyboard to enter the console.
+
+4. Once there, paste  "set IpDrv.MasterServerLink MasterServerList ((Address="utmaster.openspy.net",Port=28902))"  without quotes and relaunch the game.
+
+You should be good to go! I will provede mods and maps as well if requested. Happy gaming!
